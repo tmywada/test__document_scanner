@@ -1,4 +1,4 @@
-# Document Scamming
+# Text Extraction from Documents
 
 This repo demonstrates sample environment creation for Docling framework. 
 * Python 3.10
