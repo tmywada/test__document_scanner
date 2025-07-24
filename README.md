@@ -1,10 +1,16 @@
-# test__document_scanner
+# Document Scamming
+
+This repo demonstrates sample environment creation for Docling framework. 
+* Python 3.10
+* dockling v2.2.0
+
+<br>
 
 ## 1. Base Setting
 ### 1.1. Install `uv`
     pip install pip
 
-### 1.2. Create a virtual environement
+### 1.2. Create a virtual environment
     uv venv --python 3.10 .venv
 
 ### 1.3. Update `pip`
@@ -16,7 +22,7 @@
 <br>
 
 ## 2. Clone `Docling` repository
-### 2.1. Clong HF repository (except large files)
+### 2.1. Clone HF repository (except large files)
     cd configs
     git clone https://huggingface.co/ds4sd/docling-models --branch v2.2.0
 
@@ -40,7 +46,7 @@
     * https://huggingface.co/xiaoyao9184/easyocr/blob/master/latin_g2.pth
     * https://huggingface.co/xiaoyao9184/easyocr/blob/master/english_g2.pth
 
-### 2.6. Save the filders in the newly created `EasyOcr` folder.
+### 2.6. Save the files in the newly created `EasyOcr` folder.
 
 Test file is in `test.ipynb` under `notebooks` folder!!
 
