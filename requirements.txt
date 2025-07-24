@@ -1,0 +1,2 @@
+docling==2.32.0
+ipykernel==6.30.0
