@@ -40,8 +40,7 @@ This repo demonstrates sample environment creation for Docling framework.
 
     https://huggingface.co/ds4sd/docling-models/tree/v2.2.0/model_artifacts/tableformer/fast
 
-### 2.3. Replace the files
-    Keep folder structure.
+### 2.3. Replace the files (**Keep the folder structure**).
 
 ### 2.4. Create `EacyOcr` folder under `docling-models` folder
 
@@ -61,6 +60,8 @@ This repo demonstrates sample environment creation for Docling framework.
 
 ### 2.6. Save the files in the newly created `EasyOcr` folder.
 
+
+##
 Test file is in `test.ipynb` under `notebooks` folder!!
 
 
